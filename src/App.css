@@ -4,7 +4,13 @@ body {
   padding: 0;
   display: flex;
   justify-content: center;
-  background-color: lightblue;
+  /* background-color: rgb(65, 63, 63); */
+  background: url("./calculator-background.webp");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  background-attachment:fixed;
+
 }
 
 .calculator {
